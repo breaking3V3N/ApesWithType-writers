@@ -1,0 +1,3 @@
+Basis vectors:
+    std basis vec i = e_{i}
+    basis vec i = v_{i}
